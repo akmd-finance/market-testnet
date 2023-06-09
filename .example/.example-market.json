@@ -1,0 +1,28 @@
+{
+  "name": "ABTC-AETH",
+  "description": "<some description>",
+  "ABTC": {
+    "name": "akmd btc",
+    "symbol": "ABTC",
+    "image": "<https or ipfs URI>",
+    "decimals": 18,
+    "contractAddress": "<0x...>",
+    "vaultAddress": "<0x...>",
+    "chianId": 1,
+    "usingAMM": true,
+    "oracleAddress": "<0x...>",
+    "oracleDecimals": 8
+  },
+  "AETH": {
+    "name": "akmd eth",
+    "symbol": "AETH",
+    "image": "<https or ipfs URI>",
+    "decimals": 18,
+    "contractAddress": "<0x...>",
+    "vaultAddress": "<0x...>",
+    "chianId": 1,
+    "usingAMM": true,
+    "oracleAddress": "<0x...>",
+    "oracleDecimals": 8
+  }
+}
